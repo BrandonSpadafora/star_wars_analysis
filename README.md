@@ -24,8 +24,8 @@ I made a mistake when getting the count of unique homeworlds. There is not 77 un
 
 Contributors names and contact info
 * Brandon spadafora
-[Linkedin]( https://www.linkedin.com/mwlite/in/brandon-spadafora-951375220)
-[email](Brandon.spadafora01@gmail.com )
+Linkedin:(https://www.linkedin.com/mwlite/in/brandon-spadafora-951375220)
+email:(Brandon.spadafora01@gmail.com )
 
 
 ## Acknowledgments
